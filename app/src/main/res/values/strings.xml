@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">AppCaculator</string>
+    <string name="enter_first_number">Nhập số thứ nhất</string>
+    <string name="enter_second_number">Nhập số thứ hai</string>
+    <string name="result">Kết quả</string>
+    <string name="division">Chia</string>
+    <string name="multiplication">Nhân</string>
+    <string name="subtraction">Trừ</string>
+    <string name="addition">Cộng</string>
+    <string name="result_0">0</string>
+    <string name="msg_mod">bạn đã thực hiện phép tính chia dư</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="night">9</string>
+    <string name="msg_not_enter">bạn chưa nhập số để có thể tính</string>
+    <string name="msg_check_format">vui lòng kiểm tra lại định dạng</string>
+    <string name="msg_not_sign">Không thể để dấu âm khi ở vị trí này</string>
+    <string name="msg_added">bạn đã thực hiện phép tính cộng</string>
+    <string name="msg_subed">bạn đã thực hiện phép tính trừ</string>
+    <string name="msg_multied">bạn đã thực hiện phép tính nhân</string>
+    <string name="msg_dived">bạn đã thực hiện phép tính chia</string>
+    <string name="sign">-</string>
+    <string name="dot">.</string>
+    <string name="menu_clear">clear</string>
+    <string name="menu_save_last_result">Save last Result</string>
+    <string name="save_result">SaveLastResult</string>
+    <string name="key_save">keySavelastResult</string>
+    <string name="ac">AC</string>
+    <string name="sign_">+/-</string>
+    <string name="persent">%</string>
+    <string name="div">/</string>
+    <string name="multi">x</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="dot">.</string>
+    <string name="output">=</string>
 </resources>
